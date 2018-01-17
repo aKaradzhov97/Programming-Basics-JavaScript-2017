@@ -1,0 +1,9 @@
+{
+  "name": "16.-number0-to100-to-text",
+  "version": "0.0.0",
+  "description": "16. Number0To100ToText",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}
