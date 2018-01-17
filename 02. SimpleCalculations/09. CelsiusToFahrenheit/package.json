@@ -1,9 +1,0 @@
-{
-  "name": "09.-celsius-to-fahrenheit",
-  "version": "0.0.0",
-  "description": "09. CelsiusToFahrenheit",
-  "main": "app.js",
-  "author": {
-    "name": "Amal"
-  }
-}

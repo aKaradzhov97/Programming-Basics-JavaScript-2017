@@ -1,9 +1,0 @@
-{
-  "name": "09.-password-guess",
-  "version": "0.0.0",
-  "description": "09. PasswordGuess",
-  "main": "app.js",
-  "author": {
-    "name": "Amal"
-  }
-}

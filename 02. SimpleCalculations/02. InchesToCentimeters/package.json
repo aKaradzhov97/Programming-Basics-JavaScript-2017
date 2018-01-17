@@ -1,9 +1,0 @@
-{
-  "name": "02.-inches-to-centimeters",
-  "version": "0.0.0",
-  "description": "02. InchesToCentimeters",
-  "main": "app.js",
-  "author": {
-    "name": "Amal"
-  }
-}

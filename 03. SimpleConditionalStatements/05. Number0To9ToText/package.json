@@ -1,9 +1,0 @@
-{
-  "name": "05.-number0-to9-to-text",
-  "version": "0.0.0",
-  "description": "05. Number0To9ToText",
-  "main": "app.js",
-  "author": {
-    "name": "Amal"
-  }
-}
