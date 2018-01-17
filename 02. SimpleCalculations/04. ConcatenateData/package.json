@@ -1,0 +1,9 @@
+{
+  "name": "04.-concatenate-data",
+  "version": "0.0.0",
+  "description": "04. ConcatenateData",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}

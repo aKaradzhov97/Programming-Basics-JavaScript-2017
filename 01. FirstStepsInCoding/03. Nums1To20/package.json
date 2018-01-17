@@ -1,0 +1,9 @@
+{
+  "name": "03.-nums1-to20",
+  "version": "0.0.0",
+  "description": "03. Nums1To20",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}

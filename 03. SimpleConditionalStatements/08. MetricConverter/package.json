@@ -1,0 +1,9 @@
+{
+  "name": "08.-metric-converter",
+  "version": "0.0.0",
+  "description": "08. MetricConverter",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}
