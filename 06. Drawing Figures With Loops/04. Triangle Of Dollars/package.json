@@ -1,0 +1,9 @@
+{
+  "name": "04.-triangle-of-dollars",
+  "version": "0.0.0",
+  "description": "04. Triangle Of Dollars",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}

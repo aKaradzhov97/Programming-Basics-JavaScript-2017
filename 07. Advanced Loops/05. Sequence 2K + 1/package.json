@@ -1,0 +1,9 @@
+{
+  "name": "05.-sequence-2-k---1",
+  "version": "0.0.0",
+  "description": "05. Sequence 2K + 1",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}
