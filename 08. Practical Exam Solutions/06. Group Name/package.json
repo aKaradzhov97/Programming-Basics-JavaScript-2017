@@ -1,0 +1,9 @@
+{
+  "name": "06.-group-name",
+  "version": "0.0.0",
+  "description": "06. Group Name",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}

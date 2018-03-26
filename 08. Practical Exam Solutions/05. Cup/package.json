@@ -1,0 +1,9 @@
+{
+  "name": "05.-cup",
+  "version": "0.0.0",
+  "description": "05. Cup",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}

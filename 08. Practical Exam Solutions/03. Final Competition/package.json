@@ -1,0 +1,9 @@
+{
+  "name": "03.-final-competition",
+  "version": "0.0.0",
+  "description": "03. Final Competition",
+  "main": "app.js",
+  "author": {
+    "name": "Amal"
+  }
+}
